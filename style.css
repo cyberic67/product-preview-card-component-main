@@ -213,7 +213,7 @@ main{
 
 .card__body {
   background-color: hsl(var(--clr-white));
-  padding: 1.7rem;
+  padding: 2.2rem;
   text-align: left;
   border-radius: 0px 0px 10px 10px;
   border: none;
