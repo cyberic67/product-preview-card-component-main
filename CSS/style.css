@@ -161,10 +161,8 @@ select {
     margin: 1em;
     background-color: white;
     max-width: 343px;
-    /* max-height: 450px; */
     display: grid;
     row-gap: 0;
-    /* grid-template-rows: 40% min-content; */
     border-radius: 10px;    
 }
 
