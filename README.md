@@ -16,7 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -44,7 +44,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -61,19 +60,17 @@ Tried to improve my skills when working with images and and different screen siz
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
 - [W3schools srcset attribute](https://www.w3schools.com/tags/att_source_srcset.asp) - This helped me for changing img source base on the screen width. I was unfamiliar with the srcset attribute.
 
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
@@ -81,10 +78,8 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 - Frontend Mentor - [@cyberic67](https://www.frontendmentor.io/profile/cyberic67)
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
 Thanks to Kevin Powell for his awesome YouTube video on CSS.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
