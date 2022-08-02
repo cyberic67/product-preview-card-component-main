@@ -245,7 +245,8 @@ select {
     margin-right: 1em;
 }
 
-.add-to-cart button:hover{
+.add-to-cart button:hover,
+.add-to-cart button:focus {
     background-color: hsl(var(--clr-deepaquamarinehover));
 }
 
