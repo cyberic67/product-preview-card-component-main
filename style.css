@@ -178,11 +178,22 @@ select {
 /* Component classes   */
 /* ------------------- */
 
+main{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+  min-height: 90vh;
+}
+
 .card-container {
   display: flex;
+  
   flex-direction: row;
   justify-content: center;
+  align-items: center;
 }
+
 .card {
   margin: 1em;
   background-color: white;
@@ -274,7 +285,7 @@ select {
 }
 
 footer {
-  margin-top: 5em;
+  margin: 1em;
   text-align: center;
 }
 
