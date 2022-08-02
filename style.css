@@ -257,9 +257,8 @@ select {
   border: none;
   border-radius: 8px;
   padding: 1em;
-  display: flex;
-  text-align: center;
   cursor: pointer;
+  display: flex;  
   justify-content: center;
   align-items: center;
 }
